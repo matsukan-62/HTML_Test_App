@@ -1,0 +1,29 @@
+/*全体の上下の余白を指定*/
+body {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/*ヘッダーを中央揃え、タイトルの下に画像を表示*/
+header {
+    text-align: center;
+}
+
+/*プロフィール画像のサイズと形を指定*/
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+/*本文を中央揃えに指定*/
+body {
+    text-align: center;
+}
+
+.hobby_list {
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: left;
+
+}
